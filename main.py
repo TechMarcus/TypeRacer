@@ -1,6 +1,7 @@
 from racer import Racer
 def main():
-    Racer()
+    IsCookiesUsed = False
+    Racer(IsCookiesUsed)
 
 if __name__ == '__main__':
     main()
